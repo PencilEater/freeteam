@@ -1,0 +1,20 @@
+version: '3'
+services:
+  back:
+    build: ./node-template
+    container_name: 'back'
+    ports:
+      - 8000:8000
+    stdin_open: true
+    restart: on-failure
+    volumes:
+      - ./node-template:/usr/src/back
+  web:
+    build: ./next-template
+    container_name: 'web'
+    ports:
+      - 80:3000
+    stdin_open: true
+    restart: on-failure
+    volumes:
+      - ./next-template:/usr/src/web

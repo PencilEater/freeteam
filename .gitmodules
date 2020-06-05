@@ -1,0 +1,6 @@
+[submodule "next-template"]
+	path = next-template
+	url = https://github.com/PencilEater/next-template.git
+[submodule "node-template"]
+	path = node-template
+	url = https://github.com/PencilEater/node-template.git

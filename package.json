@@ -1,0 +1,9 @@
+{
+  "name": "template-web",
+  "version": "0.1.1",
+  "description": "Template web with NodeJs and NextJs",
+  "repository": "https://github.com/PencilEater/template-web.git",
+  "author": "Maastrich",
+  "license": "ISC",
+  "private": false
+}
