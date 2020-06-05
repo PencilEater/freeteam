@@ -9,10 +9,10 @@ Contain a docker-compose.yml
 ## FronEnd
 See more information in the [next-template](https://github.com/PencilEater/next-template/tree/master) Github repository.
 
-Documentation: [Readme.md](https://github.com/PencilEater/node-template/blob/master/Readme.Md)
+Documentation: [Readme.md](https://github.com/PencilEater/node-template/blob/master/README.md)
 ## BackEnd
 See more information in the [node-template](https://github.com/PencilEater/node-template/tree/master) Github repository.
 
-Documentation: [Readme.md](https://github.com/PencilEater/node-template/blob/master/Readme.Md)
+Documentation: [Readme.md](https://github.com/PencilEater/node-template/blob/master/README.md)
 ## How to Run
 > More documentation soon
