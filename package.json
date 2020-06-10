@@ -1,8 +1,15 @@
 {
   "name": "template-web",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Template web with NodeJs and NextJs",
   "repository": "https://github.com/PencilEater/template-web.git",
+  "scripts": {
+    "install:next": "cd next-template; yarn install; cd ..",
+    "install:node": "cd node-template; yarn install; cd ..",
+    "install": "yarn install:next; yarn install:node",
+    "run:build": "docker-compose up --build",
+    "run:": "docker-compose up"
+  },
   "author": "Maastrich",
   "license": "ISC",
   "private": false
