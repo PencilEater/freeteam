@@ -1,0 +1,6 @@
+[submodule "freeteam-back"]
+	path = freeteam-back
+	url = https://github.com/PencilEater/freeteam-back.git
+[submodule "freeteam-web"]
+	path = freeteam-web
+	url = https://github.com/PencilEater/freeteam-web.git
